@@ -1,0 +1,14 @@
+
+.DS_Store
+.idea/Hospital.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/clearConsole.cpython-38.pyc
+__pycache__/database.cpython-38.pyc
+__pycache__/Doctor.cpython-38.pyc
+__pycache__/HealthcareProfessional.cpython-38.pyc
+__pycache__/Patient.cpython-38.pyc
+__pycache__/Receptionist.cpython-38.pyc
+assets/.DS_Store
