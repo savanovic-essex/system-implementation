@@ -59,7 +59,19 @@ I omitted the class parameters for this class, as I rely on the database to supp
 
 ### Testing
 In the GIFs below, you can see the evidence of app testing.
+In case the gifs don't play automatically on your local machine, you can get open this file in your browser
+by clicking this link: [https://github.com/savanovic-essex/system-implementation/blob/master/README.md](https://github.com/savanovic-essex/system-implementation/blob/master/README.md) 
+#### Doctor's view
+In the GIF below you can see the functionalities that the Doctor class can do.
+When a user logs in as a doctor, they will be able to see prescription requests and issue them to their patients.
 ![Doctor](https://github.com/savanovic-essex/system-implementation/blob/master/assets/doctor.gif)
+#### Patient's view
+In the GIF below you can see the functionalities that the Patient class can do.
+When a user logs in as a patient, they will be able to request an appointment or a prescription from a doctor.
 ![Patient](https://github.com/savanovic-essex/system-implementation/blob/master/assets/patient.gif)
+#### Receptionist's view
+In the GIF below you can see the functionalities that the Receptionist class can do.
+When a user logs in as a receptionist, they will be able to see confirmed appointments in the appointment schedule, as well as cancel them.
 ![ReceptionistConfirmed](https://github.com/savanovic-essex/system-implementation/blob/master/assets/receptionist-confirmed.gif)
+Apart from the first functionality, they will be able to see appointment requests and either confirm or cancel them.
 ![ReceptionistRequested](https://github.com/savanovic-essex/system-implementation/blob/master/assets/receptionist-requested.gif)
