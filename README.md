@@ -9,14 +9,19 @@ In order to start using the Hospital app, one needs to open a console window and
     python main.py
 
 This command will start the application and present the initial menu where users can choose which interface they would like to see (doctor, receptionist or nurse).
+
+**In case you are starting the app in Codio, please open Main.py file and press the Run button, or execute the following command in Terminal.**
+
+    python3 Main.py
+
 I have prepared some sample data for the hospital application, e.g. login data, doctors, patients, etc.
 
 #### Login data
 Please use the following login data for the **doctor's** view:
 
-| Employee Number | Name    |
-|-----------------|---------|
-| 1               | Michael |
+| Employee Number | Name        |
+|-----------------|-------------|
+| 10              | Christopher |
 
 Please use the following login data for the **receptionist 's** view:
 
