@@ -59,3 +59,7 @@ I omitted the class parameters for this class, as I rely on the database to supp
 
 ### Testing
 In the GIFs below, you can see the evidence of app testing.
+![Doctor](https://github.com/savanovic-essex/system-implementation/blob/master/assets/doctor.gif)
+![Patient](https://github.com/savanovic-essex/system-implementation/blob/master/assets/patient.gif)
+![ReceptionistConfirmed](https://github.com/savanovic-essex/system-implementation/blob/master/assets/receptionist-confirmed.gif)
+![ReceptionistRequested](https://github.com/savanovic-essex/system-implementation/blob/master/assets/receptionist-requested.gif)
